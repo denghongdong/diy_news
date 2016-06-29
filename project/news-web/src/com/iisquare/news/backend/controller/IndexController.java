@@ -1,4 +1,4 @@
-package com.iisquare.news.controller.backend;
+package com.iisquare.news.backend.controller;
 
 import com.iisquare.news.core.component.PermitController;
 

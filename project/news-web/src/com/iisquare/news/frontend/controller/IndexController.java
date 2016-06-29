@@ -1,4 +1,4 @@
-package com.iisquare.news.controller.frontend;
+package com.iisquare.news.frontend.controller;
 
 import com.iisquare.news.core.component.CoreController;
 
