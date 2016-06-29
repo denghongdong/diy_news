@@ -1,5 +1,5 @@
 package com.iisquare.frame.mvc;
 
-public abstract class DaoMySQL {
+public abstract class MySQLBase {
 
 }
